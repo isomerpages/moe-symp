@@ -1,4 +1,5 @@
 collections:
   local:
     output: true
-    order: []
+    order:
+      - Learning Tamil through Effective Classroom Activities.md
