@@ -3,6 +3,18 @@ title: Overview
 permalink: /Overview
 description: ""
 ---
+To enhance the professional skills of Pre-school Tamil Language teachers and provide a platform for them to grow their professional support network, the Tamil Language Learning and Promotion Committee (TLLPC) has organized the Pre-school Symposium 2022. This year, the event is held in a hybrid mode to allow international presentations and participation. 
+
+The theme for this year’s symposium is ‘Teaching and Learning of Tamil Language through purposeful play and quality interaction’. Engaging in purposeful play and establishing quality interactions throughout the early years has the potential to provide the best possible environment for children’s Mother Tongue acquisition and learning.
+
+The synchronous module of the symposium is the official opening on 23 July 2022, at 9.00 am in Umar Pulavar Tamil Language Centre. The Guest-of-Honour is Dr T Chandroo, the Chairman and CEO of the Modern Montessori International Group (MMI) and Deputy Chairperson of Tamil Language Learning and Promotion Committee . The keynote address is by Dr G Kaveri, Lecturer, Early Childhood Education Programme, S R Nathan School of Human Development, Singapore University of Social Sciences.
+
+The asynchronous module of the symposium comprises of 2 workshops, 4 sharing sessions by overseas experts and 4 sharing sessions by local pre-school Tamil Language educators.
+
+The Tamil Language Learning and Promotion Committee (TLLPC) hopes both local and international pre-school Tamil Language educators’ benefit from this symposium.
+
+
+**கண்ணோட்டம்**
 
 பாலர் பள்ளித் தமிழாசிரியர்களின் பணிசார் திறன்களை மேம்படுத்துவதற்காகப்  பாலர் பள்ளிக் கலந்தாய்வரங்கம் 2022-ஐ தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு ஏற்பாடு செய்திருக்கிறது. அனைத்துலகப் படைப்புகளை வரவேற்கவும் வெளிநாட்டினரின் பங்கேற்பை அதிகரிக்கவும் கலந்தாய்வரங்கம் கலவைமுறையில் நடைபெறுகிறது.
 
