@@ -7,14 +7,16 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/BANNER1.png
-      button: கண்ணோட்டம்
+      background: /images/BANNER2.png
       url: /contact-us/
+      title: Symposium for Pre-School Tamil Language Teachers
+      subtitle: Teaching and Learning of Tamil Language through Purposeful Play &
+        Quality Interaction
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: கண்ணோட்டம்
+      subtitle: Overview
       description: About a sentence worth of description here
-      button: Button text
+      button: REad more
       url: /faq/
   - resources:
       title: Media
