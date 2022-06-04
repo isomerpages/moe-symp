@@ -19,8 +19,18 @@ sections:
         Tamil Language through purposeful play and quality interaction’. "
       button: REad more
       url: /overview/
-  - resources:
+  - infobar:
       title: சிங்கப்பூர் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள்
-      subtitle: Learn more
+      subtitle: Local Speakers’ sharing
       button: View More
+      url: /faq/
+  - infobar:
+      title: "வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள் "
+      subtitle: Overseas Speakers’ Sharing
+      description: Infobar description
+      button: view more
+      url: /faq/
+  - infopic:
+      title: Feedback
+      alt: Image alt text
 ---
