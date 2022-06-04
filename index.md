@@ -27,7 +27,6 @@ sections:
   - infobar:
       title: "வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள் "
       subtitle: Overseas Speakers’ Sharing
-      description: Infobar description
       button: view more
       url: /faq/
   - infopic:
