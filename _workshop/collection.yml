@@ -2,5 +2,5 @@ collections:
   workshop:
     output: true
     order:
-      - Teaching and Learning of Tamil Language through Rhymes and Games.md
       - Workshop 1.md
+      - Teaching and Learning of Tamil Language through Rhymes and Games.md
