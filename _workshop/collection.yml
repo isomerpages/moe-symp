@@ -2,4 +2,5 @@ collections:
   workshop:
     output: true
     order:
+      - Workshop 2.md
       - Workshop 1.md
