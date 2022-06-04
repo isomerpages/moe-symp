@@ -15,9 +15,10 @@ sections:
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
-      description: About a sentence worth of description here
+      description: "The theme for this year’s symposium is ‘Teaching and Learning of
+        Tamil Language through purposeful play and quality interaction’. "
       button: REad more
-      url: /faq/
+      url: /overview/
   - resources:
       title: Media
       subtitle: Learn more
