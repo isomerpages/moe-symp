@@ -5,13 +5,15 @@ links:
   - title: Workshops
     url: /Workshops
     sublinks:
-      - title: Workshop 1
+      - title: பயிலரங்கம் 1
         url: /Ms-Jeeva-Raghunath
-      - title: Workshop 2
+      - title: பயிலரங்கம் 2
         url: /mr-PULAVAR-VETRICCHEZHIYAN
   - title: Local Speakers’ sharing
     url: /Local-speakers
-    sublinks: []
+    sublinks:
+      - title: பகிர்வு 1
+        url: /Mrs-Balamurugan-Shanthi
   - title: Overseas Speakers’ Sharing
     url: /Overseas-Speakers
     sublinks:
