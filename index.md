@@ -7,19 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/BANNER.png
+      background: /images/BANNER1.png
       button: கண்ணோட்டம்
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
