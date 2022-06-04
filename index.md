@@ -10,8 +10,6 @@ sections:
       background: /images/BANNERplain.png
       url: /overview/
       title: Symposium for Pre-School Tamil Language Teachers
-      subtitle: Teaching and Learning of Tamil Language through Purposeful Play &
-        Quality Interaction
       button: LEARN MORE
       key_highlights:
         - title: Overview
@@ -29,8 +27,8 @@ sections:
   - infobar:
       title: Overview
       subtitle: கண்ணோட்டம்
-      description: "The theme for this year’s symposium is ‘Teaching and Learning of
-        Tamil Language through purposeful play and quality interaction’. "
+      description: Teaching and Learning of Tamil Language through Purposeful Play &
+        Quality Interaction
       button: REad more
       url: /overview/
   - infobar:
