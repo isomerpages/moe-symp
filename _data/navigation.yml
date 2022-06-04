@@ -2,9 +2,18 @@ logo: /images/TLLPC LOGO.png
 links:
   - title: Overview
     url: /overview
+  - title: Workshops
+    url: /Workshops
+    sublinks: []
+  - title: Local Speakers’ sharing
+    url: /Local-speakers
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Workshops
-    url: /workshops/
   - title: Resources
     resource_room: true
+  - title: Overseas Speakers’ Sharing
+    url: /Overseas-Speakers
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
