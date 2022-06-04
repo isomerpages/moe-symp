@@ -17,10 +17,10 @@ sections:
           url: /overview/
         - title: Workshops
           description: ""
-          url: /workshops/
+          url: /ms-jeeva-raghunath
         - title: Local Speakers’ sharing
           description: ""
-          url: /local-speakers/
+          url: /mrs-balamurugan-shanthi
         - title: Overseas Speakers’ Sharing
           description: ""
           url: /overseas-speakers/
@@ -35,12 +35,12 @@ sections:
       title: Workshops
       subtitle: Workshops
       button: View More
-      url: /workshops/
+      url: /ms-jeeva-raghunath
   - infobar:
       title: Local Speakers’ sharing
       subtitle: Local Speakers’ sharing
       button: View More
-      url: /faq/
+      url: /mrs-balamurugan-shanthi
   - infobar:
       title: Overseas Speakers’ Sharing
       subtitle: Overseas Speakers’ Sharing
