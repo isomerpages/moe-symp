@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Symposium for Pre-School Tamil Language Teachers
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -33,3 +33,4 @@ sections:
       title: Feedback
       alt: Image alt text
 ---
+
