@@ -20,7 +20,7 @@ sections:
       button: REad more
       url: /overview/
   - resources:
-      title: Media
+      title: சிங்கப்பூர் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள்
       subtitle: Learn more
       button: View More
 ---
