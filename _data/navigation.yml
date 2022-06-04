@@ -8,12 +8,12 @@ links:
   - title: Local Speakers’ sharing
     url: /Local-speakers
     sublinks: []
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
   - title: Overseas Speakers’ Sharing
     url: /Overseas-Speakers
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    resource_room: true
