@@ -2,7 +2,7 @@ collections:
   local:
     output: true
     order:
-      - Teaching and Learning of Tamil Language through Traditional Games.md
       - Learning Tamil through Effective Classroom Activities.md
       - Learning Tamil through Interesting Games.md
       - Teaching and Learning Tamil Language through Outdoor Activities.md
+      - Teaching and Learning of Tamil Language through Traditional Games.md
