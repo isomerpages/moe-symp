@@ -32,6 +32,11 @@ sections:
       button: REad more
       url: /overview/
   - infobar:
+      title: Workshops
+      subtitle: Workshops
+      button: View More
+      url: /workshops/
+  - infobar:
       title: Local Speakers’ sharing
       subtitle: Local Speakers’ sharing
       button: View More
@@ -44,9 +49,4 @@ sections:
   - infopic:
       title: Feedback
       alt: Image alt text
-  - infobar:
-      title: Workshops
-      subtitle: Workshops
-      button: View More
-      url: /workshops/
 ---
