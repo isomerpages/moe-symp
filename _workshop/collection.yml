@@ -1,4 +1,5 @@
 collections:
   workshop:
     output: true
-    order: []
+    order:
+      - Workshop 1.md
