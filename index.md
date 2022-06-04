@@ -44,4 +44,9 @@ sections:
   - infopic:
       title: Feedback
       alt: Image alt text
+  - infobar:
+      title: Workshops
+      subtitle: Workshops
+      button: View More
+      url: /workshops/
 ---
