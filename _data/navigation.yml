@@ -1,8 +1,10 @@
 logo: /images/TLLPC LOGO.png
 links:
+  - title: Overview
+    url: /overview
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Workshops
+    url: /workshops/
   - title: Resources
     resource_room: true
