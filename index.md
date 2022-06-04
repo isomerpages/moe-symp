@@ -8,10 +8,24 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/BANNERplain.png
-      url: /contact-us/
+      url: /overview/
       title: Symposium for Pre-School Tamil Language Teachers
       subtitle: Teaching and Learning of Tamil Language through Purposeful Play &
         Quality Interaction
+      button: LEARN MORE
+      key_highlights:
+        - title: Overview
+          description: ""
+          url: /overview/
+        - title: Workshops
+          description: ""
+          url: /workshops/
+        - title: Local Speakers’ sharing
+          description: ""
+          url: /local-speakers/
+        - title: Overseas Speakers’ Sharing
+          description: ""
+          url: /overseas-speakers/
   - infobar:
       title: Overview
       subtitle: கண்ணோட்டம்
