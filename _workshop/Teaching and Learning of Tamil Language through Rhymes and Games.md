@@ -3,6 +3,7 @@ title: Teaching and Learning of Tamil Language through Rhymes and Games
 permalink: /mr-PULAVAR-VETRICCHEZHIYAN
 description: ""
 ---
+![](/images/PULAVAR%20VETRICCHEZHIYAN-1.png)
 **Profile**
 
 Pulavar Vetricchezhiyan is a teacher as well as the Principal of Paventhar Thamizh medium school. He has 30 years of experience in the education service. He is in charge of the nursery and primary education curriculum planning committee.  He is also a trainer for Tamil medium school teachers. He conducts workshops for nursery and primary school teachers in the United States, Singapore and Tamil Nadu.
