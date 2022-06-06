@@ -3,6 +3,7 @@ title: Teaching and Learning Tamil Language through Outdoor Activities
 permalink: /Mrs-Sharmila-Devi
 description: ""
 ---
+![](/images/Mrs%20Sharmila%20Devi.png)
 **Profile**
 
 Mrs Sharmila Devi is a Senior Teacher in PCF Sparkletots Pre-school @ Boon Lay Blk 262. She has a bachelor’s degree in Early Childhood Studies. She has been in pre-school sector for many years as an English and Tamil Language teacher. She received the Outstanding Pre-School Mother Tongue Language Teacher Award in 2021. Her area of interest is to impart Tamil Language skills through meaningful outdoor activities to her Tamil students. She believes that it is important to create an interest in learning Tamil Language amongst children in their early years itself. This is crucial to boost their confidence level in using the language.
