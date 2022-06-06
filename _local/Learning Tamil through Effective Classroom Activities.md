@@ -3,7 +3,7 @@ title: Learning Tamil through Effective Classroom Activities
 permalink: /Mrs-Balamurugan-Shanthi
 description: ""
 ---
-
+![](/images/Mrs%20Balramurugan%20Shanthi.png)
 **Profile**
 
 Mrs Shanthi is a Tamil Language teacher at PCF Sparkletots pre-school. She has a bachelor’s degree in mathematics. Having the passion to educate young children, she started off to work as a relief teacher for 3 years. To enhance her knowledge in early childhood, she pursued the Diploma in Early Childhood at Seed Institute. Due to her love for the Tamil language, she seized the opportunity to become a Tamil language teacher in a Kindergarten. Thus, she went to take  up the Certificate of Preschool Mother Tongue Language by National Institute of Early Childhood (NIEC). She received the Outstanding Pre-School Mother Tongue Language Teacher Award (OPMTL)  in 2021.
