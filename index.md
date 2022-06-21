@@ -15,14 +15,14 @@ sections:
         - title: கண்ணோட்டம்
           description: Overview
           url: /overview/
-        - title: தொடக்க விழா
-          description: Opening Ceremony
+        - title: பயிலரங்கங்கள்
+          description: Workshops
           url: /ms-jeeva-raghunath
-        - title: Local Speakers’ sharing
-          description: ""
+        - title: சிங்கப்பூர்ப் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள்
+          description: Local Speakers’ sharing
           url: /mrs-balamurugan-shanthi
-        - title: Overseas Speakers’ Sharing
-          description: ""
+        - title: வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள்
+          description: Overseas Speakers’ Sharing
           url: /overseas-speakers/
   - infobar:
       title: கண்ணோட்டம்
