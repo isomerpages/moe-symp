@@ -1,8 +1,10 @@
 logo: /images/TLLPC LOGO.png
 links:
-  - title: Overview
+  - title: கண்ணோட்டம்
     url: /overview
-  - title: Workshops
+  - title: தொடக்க விழா
+    url: /OPENINGCEREMONY
+  - title: பயிலரங்கங்கள்
     url: /Workshops
     sublinks:
       - title: பயிலரங்கம் 1
@@ -25,7 +27,3 @@ links:
     sublinks:
       - title: Submenu Title
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
