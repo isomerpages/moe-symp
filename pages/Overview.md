@@ -3,11 +3,13 @@ title: Overview
 permalink: /Overview
 description: ""
 ---
-To enhance the professional skills of Pre-school Tamil Language teachers and provide a platform for them to grow their professional support network, the Tamil Language Learning and Promotion Committee (TLLPC) has organized the Pre-school Symposium 2022. This year, the event is held in a hybrid mode to allow international presentations and participation. 
+**Overview**
 
-The theme for this year’s symposium is ‘Teaching and Learning of Tamil Language through purposeful play and quality interaction’. Engaging in purposeful play and establishing quality interactions throughout the early years has the potential to provide the best possible environment for children’s Mother Tongue acquisition and learning.
+To enhance the professional skills of Pre-school Tamil Language teachers and provide a platform for them to grow their professional support network, the Tamil Language Learning and Promotion Committee (TLLPC) has organized the Pre-school Symposium 2022. This year, the event is held in a hybrid mode to allow international presentations and participation.
 
-The synchronous module of the symposium is the official opening on 23 July 2022, at 9.00 am in Umar Pulavar Tamil Language Centre. The Guest-of-Honour is Dr T Chandroo, the Chairman and CEO of the Modern Montessori International Group (MMI) and Deputy Chairperson of Tamil Language Learning and Promotion Committee . The keynote address is by Dr G Kaveri, Lecturer, Early Childhood Education Programme, S R Nathan School of Human Development, Singapore University of Social Sciences.
+The theme for this year’s symposium is **‘Teaching and Learning of Tamil Language through purposeful play and quality interaction’**. Engaging in purposeful play and establishing quality interactions throughout the early years has the potential to provide the best possible environment for children’s Mother Tongue acquisition and learning.
+
+The synchronous module of the symposium is the official opening on 23 July 2022, at 9.00 am in Umar Pulavar Tamil Language Centre. The Guest-of-Honour is Dr T Chandroo, the Chairman and CEO of the Modern Montessori International Group (MMI) and Deputy Chairperson of Tamil Language Learning and Promotion Committee . The keynote address is by Dr G Kaveri, Lecturer, Early Childhood Education Programme, S R Nathan School of Human Development, Singapore University of Social Sciences.
 
 The asynchronous module of the symposium comprises of 2 workshops, 4 sharing sessions by overseas experts and 4 sharing sessions by local pre-school Tamil Language educators.
 
