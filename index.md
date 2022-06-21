@@ -12,11 +12,11 @@ sections:
       title: Symposium for Pre-School Tamil Language Teachers
       button: LEARN MORE
       key_highlights:
-        - title: Overview
-          description: ""
+        - title: கண்ணோட்டம்
+          description: Overview
           url: /overview/
-        - title: Workshops
-          description: ""
+        - title: தொடக்க விழா
+          description: Opening Ceremony
           url: /ms-jeeva-raghunath
         - title: Local Speakers’ sharing
           description: ""
@@ -25,28 +25,34 @@ sections:
           description: ""
           url: /overseas-speakers/
   - infobar:
-      title: Overview
-      subtitle: கண்ணோட்டம்
+      title: கண்ணோட்டம்
+      subtitle: Overview
       description: Teaching and Learning of Tamil Language through Purposeful Play &
         Quality Interaction
       button: REad more
       url: /overview/
   - infobar:
-      title: Workshops
+      title: தொடக்க விழா
+      subtitle: Opening Ceremony
+      button: View More
+      url: /openingceremony/
+  - infobar:
+      title: பயிலரங்கங்கள்
       subtitle: Workshops
       button: View More
       url: /ms-jeeva-raghunath
   - infobar:
-      title: Local Speakers’ sharing
+      title: "சிங்கப்பூர்ப் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள் "
       subtitle: Local Speakers’ sharing
       button: View More
       url: /mrs-balamurugan-shanthi
   - infobar:
-      title: Overseas Speakers’ Sharing
+      title: வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள்
       subtitle: Overseas Speakers’ Sharing
       button: view more
       url: /faq/
   - infopic:
-      title: Feedback
+      title: "கருத்துத்தெரிவிப்பு "
       alt: Image alt text
+      subtitle: Feedback
 ---
