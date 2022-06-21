@@ -2,5 +2,5 @@ collections:
   workshop:
     output: true
     order:
-      - Workshop 1.md
+      - கதையோடு விளையாடு, தமிழோடு உறவாடு!.md
       - Teaching and Learning of Tamil Language through Rhymes and Games.md
