@@ -18,10 +18,10 @@ sections:
         - title: பயிலரங்கங்கள்
           description: Workshops
           url: /ms-jeeva-raghunath
-        - title: சிங்கப்பூர்ப் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள்
+        - title: ஆசிரியர்களின் பகிர்வுகள்
           description: Local Speakers’ sharing
           url: /mrs-balamurugan-shanthi
-        - title: வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள்
+        - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
           url: /overseas-speakers/
   - infobar:
@@ -42,12 +42,12 @@ sections:
       button: View More
       url: /ms-jeeva-raghunath
   - infobar:
-      title: "சிங்கப்பூர்ப் பாலர் பள்ளித் தமிழாசிரியர்களின் பகிர்வுகள் "
+      title: ஆசிரியர்களின் பகிர்வுகள்
       subtitle: Local Speakers’ sharing
       button: View More
       url: /mrs-balamurugan-shanthi
   - infobar:
-      title: வெளிநாட்டுப் பேராளர்களின் பகிர்வுகள்
+      title: பேச்சாளர்களின் பகிர்வுகள்
       subtitle: Overseas Speakers’ Sharing
       button: view more
       url: /faq/
