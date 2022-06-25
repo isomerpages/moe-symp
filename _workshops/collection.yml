@@ -1,5 +1,5 @@
 collections:
-  workshop:
+  workshops:
     output: true
     order:
       - பயிலரங்கம் 1.md
