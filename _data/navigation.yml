@@ -5,14 +5,14 @@ links:
   - title: தொடக்க விழா
     url: /OPENINGCEREMONY
   - title: பயிலரங்கங்கள்
-    url: /Workshops
+    url: /ms-jeeva-raghunath
     sublinks:
       - title: பயிலரங்கம் 1
         url: /Ms-Jeeva-Raghunath
       - title: பயிலரங்கம் 2
         url: /mr-PULAVAR-VETRICCHEZHIYAN
   - title: ஆசிரியர்களின் பகிர்வுகள்
-    url: /Local-speakers
+    url: /mrs-balamurugan-shanthi
     sublinks:
       - title: பகிர்வு 1
         url: /Mrs-Balamurugan-Shanthi
@@ -23,7 +23,7 @@ links:
       - title: பகிர்வு 4
         url: /Mrs-Adaikkappan-Valliammai
   - title: பேச்சாளர்களின் பகிர்வுகள்
-    url: /Overseas-Speakers
+    url: /mr-muthu-nedumaran
     sublinks:
       - title: பகிர்வு 1
         url: /Mr-Muthu-Nedumaran
