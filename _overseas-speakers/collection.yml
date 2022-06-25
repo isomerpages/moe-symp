@@ -1,5 +1,5 @@
 collections:
-  overseas:
+  overseas-speakers:
     output: true
     order:
       - பகிர்வு 1.md
