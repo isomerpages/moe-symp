@@ -23,7 +23,7 @@ sections:
           url: /mrs-balamurugan-shanthi
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
-          url: /overseas-speakers/
+          url: /Mr-Muthu-Nedumaran
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
