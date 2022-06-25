@@ -1,5 +1,5 @@
 collections:
-  local:
+  local-speakers:
     output: true
     order:
       - பகிர்வு 1.md
