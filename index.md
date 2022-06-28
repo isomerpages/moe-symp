@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/BANNERplain.png
       url: /overview/
-      title: Symposium for Pre-School Tamil Language Teachers
+      title: பாலர் பள்ளித் தமிழாசிரியர்களுக்குரிய கலந்தாய்வரங்கம்
       button: LEARN MORE
       key_highlights:
         - title: கண்ணோட்டம்
@@ -24,11 +24,10 @@ sections:
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
           url: /Mr-Muthu-Nedumaran
+      subtitle: Symposium for Pre-School Tamil Language Teachers
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
-      description: Teaching and Learning of Tamil Language through Purposeful Play &
-        Quality Interaction
       button: REad more
       url: /overview/
   - infobar:
