@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Symposium for Pre-School Tamil Language Teachers
-description: Brief site description here
+title: பாலர் பள்ளித் தமிழாசிரியர்களுக்குரிய கலந்தாய்வரங்கம்
+description: Symposium for Pre-School Tamil Language Teachers
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -55,3 +55,4 @@ sections:
       alt: Image alt text
       subtitle: Feedback
 ---
+
