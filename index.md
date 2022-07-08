@@ -4,12 +4,12 @@ title: பாலர் பள்ளித் தமிழாசிரியர�
 description: Symposium for Pre-School Tamil Language Teachers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/BANNERplain.png
       url: /overview/
-      title: பாலர் பள்ளித் தமிழாசிரியர்களுக்குரிய கலந்தாய்வரங்கம்
+      title: " "
       button: LEARN MORE
       key_highlights:
         - title: கண்ணோட்டம்
@@ -55,4 +55,3 @@ sections:
       alt: Image alt text
       subtitle: Feedback
 ---
-
