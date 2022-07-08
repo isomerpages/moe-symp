@@ -25,6 +25,13 @@ sections:
           description: Overseas Speakers’ Sharing
           url: /Mr-Muthu-Nedumaran
       subtitle: Symposium for Pre-School Tamil Language Teachers
+  - infopic:
+      title: Infopic Title
+      subtitle: Overview
+      description: Infopic description
+      button: Button Text
+      image: /images/BANNER.png
+      alt: Image alt text
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
