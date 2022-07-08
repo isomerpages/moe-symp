@@ -2,5 +2,6 @@ collections:
   workshops:
     output: true
     order:
+      - பயிலரங்கங்கள்/.keep
       - பயிலரங்கம் 1.md
       - பயிலரங்கம் 2.md
