@@ -9,8 +9,8 @@ description: ""
 
 | details: workshop 1  | -------- | -------- |
 
-| title   | Text     | Text     |
-| Text     | Text     | Text     |
+| title   |     |      |
+| [workshop 1](workshop)     | Text     | Text     |
 
 
 ```
