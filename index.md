@@ -48,11 +48,6 @@ sections:
       url: /ms-jeeva-raghunath
       image: /images/Baloon 1 New.png
       alt: Image alt text
-  - infobar:
-      title: ஆசிரியர்களின் பகிர்வுகள்
-      subtitle: Teachers' sharing
-      button: View More
-      url: /mrs-balamurugan-shanthi
   - infopic:
       title: ஆசிரியர்களின் பகிர்வுகள்
       subtitle: Teachers' sharing
@@ -60,6 +55,7 @@ sections:
       button: "மேலும் அறிய "
       url: /mrs-balamurugan-shanthi
       alt: Image alt text
+      image: /images/Balloon 2 New.png
   - infobar:
       title: பேச்சாளர்களின் பகிர்வுகள்
       subtitle: Overseas Speakers’ Sharing
