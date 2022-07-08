@@ -33,11 +33,6 @@ sections:
       alt: Image alt text
       url: /overview/
   - infobar:
-      title: கண்ணோட்டம்
-      subtitle: Overview
-      button: REad more
-      url: /overview/
-  - infobar:
       title: தொடக்க விழா
       subtitle: Opening Ceremony
       button: View More
