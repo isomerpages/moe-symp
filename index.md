@@ -32,11 +32,14 @@ sections:
       image: /images/Banner New 1.png
       alt: Image alt text
       url: /overview/
-  - infobar:
+  - infopic:
       title: தொடக்க விழா
       subtitle: Opening Ceremony
-      button: View More
+      description: Infopic description
+      button: "காண்க: தொடக்கவிழா நேரலை "
       url: /openingceremony/
+      image: /images/BANNER.png
+      alt: Image alt text
   - infobar:
       title: பயிலரங்கங்கள்
       subtitle: Workshops
