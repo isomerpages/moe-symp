@@ -7,10 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNERplain.png
       url: /overview/
       title: " "
-      button: LEARN MORE
       key_highlights:
         - title: கண்ணோட்டம்
           description: Overview
@@ -24,7 +22,6 @@ sections:
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
           url: /Mr-Muthu-Nedumaran
-      subtitle: Symposium for Pre-School Tamil Language Teachers
   - infopic:
       title: "கண்ணோட்டம் "
       subtitle: Overview
