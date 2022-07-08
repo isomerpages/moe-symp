@@ -56,10 +56,6 @@ sections:
       url: /mrs-balamurugan-shanthi
       alt: Image alt text
       image: /images/Balloon 2 New.png
-  - infobar:
-      title: பேச்சாளர்களின் பகிர்வுகள்
-      button: view more
-      url: /faq/
   - infopic:
       button: "மேலும் அறிய "
       image: /images/Balloon 3.png
@@ -71,5 +67,5 @@ sections:
       title: "கருத்துத்தெரிவிப்பு "
       alt: Image alt text
       subtitle: Feedback
-      image: /images/Mr Muthu Nedumaran2.png
+      image: /images/Picture13.png
 ---
