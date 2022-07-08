@@ -16,5 +16,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: "@TLLPC"
-    title: "Follow US on Fb & Insta "
+    title: "Follow us on Fb & Insta "
 ---
