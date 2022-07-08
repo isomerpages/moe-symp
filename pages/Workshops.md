@@ -7,5 +7,6 @@ description: ""
 
 | details: workshop 1  | -------- | -------- |
 
-| title   |     |      |
-| [workshop 1](workshop)     | Text     | Text     |
+| **பயிலரங்கம் **  |     |      |
+
+| **பயிலரங்கம் 1**     | Text     | Text     |
