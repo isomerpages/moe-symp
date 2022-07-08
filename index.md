@@ -58,13 +58,14 @@ sections:
       image: /images/Balloon 2 New.png
   - infobar:
       title: பேச்சாளர்களின் பகிர்வுகள்
-      subtitle: Overseas Speakers’ Sharing
       button: view more
       url: /faq/
   - infopic:
-      button: Button Text
+      button: "மேலும் அறிய "
       image: /images/Balloon 3.png
       alt: Image alt text
+      subtitle: Overseas Speakers’ Sharing
+      url: /faq/
   - infopic:
       title: "கருத்துத்தெரிவிப்பு "
       alt: Image alt text
