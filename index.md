@@ -62,6 +62,10 @@ sections:
       button: view more
       url: /faq/
   - infopic:
+      button: Button Text
+      image: /images/Balloon 3.png
+      alt: Image alt text
+  - infopic:
       title: "கருத்துத்தெரிவிப்பு "
       alt: Image alt text
       subtitle: Feedback
