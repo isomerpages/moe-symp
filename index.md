@@ -26,12 +26,12 @@ sections:
           url: /Mr-Muthu-Nedumaran
       subtitle: Symposium for Pre-School Tamil Language Teachers
   - infopic:
-      title: Infopic Title
+      title: "கண்ணோட்டம் "
       subtitle: Overview
-      description: Infopic description
-      button: Button Text
-      image: /images/BANNER.png
+      button: மேலும் அறிய
+      image: /images/Banner New 1.png
       alt: Image alt text
+      url: "உ "
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
