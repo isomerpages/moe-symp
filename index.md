@@ -40,11 +40,6 @@ sections:
       url: /openingceremony/
       image: /images/BANNER.png
       alt: Image alt text
-  - infobar:
-      title: பயிலரங்கங்கள்
-      subtitle: Workshops
-      button: View More
-      url: /ms-jeeva-raghunath
   - infopic:
       title: பயிலரங்கங்கள்
       subtitle: Workshops
@@ -55,9 +50,16 @@ sections:
       alt: Image alt text
   - infobar:
       title: ஆசிரியர்களின் பகிர்வுகள்
-      subtitle: Local Speakers’ sharing
+      subtitle: Teachers' sharing
       button: View More
       url: /mrs-balamurugan-shanthi
+  - infopic:
+      title: ஆசிரியர்களின் பகிர்வுகள்
+      subtitle: Teachers' sharing
+      description: Infopic description
+      button: "மேலும் அறிய "
+      url: /mrs-balamurugan-shanthi
+      alt: Image alt text
   - infobar:
       title: பேச்சாளர்களின் பகிர்வுகள்
       subtitle: Overseas Speakers’ Sharing
