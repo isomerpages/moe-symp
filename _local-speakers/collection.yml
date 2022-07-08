@@ -2,7 +2,6 @@ collections:
   local-speakers:
     output: true
     order:
-      - Test/பகிர்வு 2.md
       - Test/பகிர்வு 1.md
       - Test/.keep
       - பகிர்வு 3.md
