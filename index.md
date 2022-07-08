@@ -31,7 +31,7 @@ sections:
       button: மேலும் அறிய
       image: /images/Banner New 1.png
       alt: Image alt text
-      url: "உ "
+      url: /overview/
   - infobar:
       title: கண்ணோட்டம்
       subtitle: Overview
