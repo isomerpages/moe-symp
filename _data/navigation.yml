@@ -4,6 +4,9 @@ links:
     url: /overview
   - title: தொடக்க விழா
     url: /OPENINGCEREMONY
+    sublinks:
+      - title: முதன்மையுரை
+        url: /keynoteaddress
   - title: பயிலரங்கங்கள்
     url: /ms-jeeva-raghunath
     sublinks:
