@@ -55,8 +55,4 @@ sections:
       alt: Image alt text
       subtitle: Feedback
       image: /images/Mr Muthu Nedumaran2.png
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
