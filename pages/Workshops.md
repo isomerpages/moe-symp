@@ -7,5 +7,5 @@ description: ""
 
 | details: workshop 1  | -------- | -------- |
 
-| details: workshop 2    | Text     | Text     |
+| title   | Text     | Text     |
 | Text     | Text     | Text     |
