@@ -66,6 +66,7 @@ sections:
       alt: Image alt text
       subtitle: Overseas Speakers’ Sharing
       url: /faq/
+      title: பேச்சாளர்களின் பகிர்வுகள்
   - infopic:
       title: "கருத்துத்தெரிவிப்பு "
       alt: Image alt text
