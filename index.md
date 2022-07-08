@@ -22,7 +22,7 @@ sections:
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
           url: /Mr-Muthu-Nedumaran
-      background: /images/Picture18.png
+      background: /images/Picture20.png
   - infopic:
       title: "கண்ணோட்டம் "
       subtitle: Overview
