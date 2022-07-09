@@ -33,7 +33,6 @@ sections:
   - infopic:
       title: தொடக்க விழா
       subtitle: Opening Ceremony
-      description: Infopic description
       button: "காண்க: தொடக்கவிழா நேரலை "
       url: /openingceremony/
       image: /images/BANNER.png
@@ -41,7 +40,6 @@ sections:
   - infopic:
       title: பயிலரங்கங்கள்
       subtitle: Workshops
-      description: Infopic description
       button: மேலும் அறிய
       url: /ms-jeeva-raghunath
       image: /images/Baloon 1 New.png
@@ -49,7 +47,6 @@ sections:
   - infopic:
       title: ஆசிரியர்களின் பகிர்வுகள்
       subtitle: Teachers' sharing
-      description: Infopic description
       button: "மேலும் அறிய "
       url: /mrs-balamurugan-shanthi
       alt: Image alt text
