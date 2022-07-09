@@ -8,12 +8,12 @@ links:
       - title: முதன்மையுரை
         url: /keynoteaddress
   - title: பயிலரங்கங்கள்
-    url: /ms-jeeva-raghunath
+    url: /workshops
     sublinks:
       - title: பயிலரங்கம் 1
-        url: /Ms-Jeeva-Raghunath
+        url: /workshops/Ms-Jeeva-Raghunath
       - title: பயிலரங்கம் 2
-        url: /mr-PULAVAR-VETRICCHEZHIYAN
+        url: /workshops/mr-PULAVAR-VETRICCHEZHIYAN
   - title: ஆசிரியர்களின் பகிர்வுகள்
     url: /overseasspeaker
     sublinks:
