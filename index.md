@@ -21,7 +21,7 @@ sections:
           url: /mrs-balamurugan-shanthi
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
-          url: /Mr-Muthu-Nedumaran
+          url: /overseasspeaker
       background: /images/Picture20.png
   - infopic:
       title: "கண்ணோட்டம் "
@@ -56,7 +56,7 @@ sections:
       image: /images/Balloon 3.png
       alt: Image alt text
       subtitle: Overseas Speakers’ Sharing
-      url: /faq/
+      url: /overseasspeaker
       title: பேச்சாளர்களின் பகிர்வுகள்
   - infopic:
       title: "கருத்துத்தெரிவிப்பு "
