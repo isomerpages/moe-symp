@@ -22,7 +22,7 @@ sections:
         - title: பேச்சாளர்களின் பகிர்வுகள்
           description: Overseas Speakers’ Sharing
           url: /overseasspeaker
-      background: /images/BANNERplain.png
+      background: /images/Picture40.png
   - infopic:
       title: "கண்ணோட்டம் "
       subtitle: Overview
