@@ -2,6 +2,7 @@ collections:
   overseas-speakers:
     output: true
     order:
+      - Workshops.md
       - பேச்சாளர்களின் பகிர்வுகள்/.keep
       - பேச்சாளர்களின் பகிர்வுகள்/பகிர்வு 1.md
       - பேச்சாளர்களின் பகிர்வுகள்/பகிர்வு 2.md
