@@ -48,7 +48,7 @@ sections:
       title: ஆசிரியர்களின் பகிர்வுகள்
       subtitle: Teachers' sharing
       button: "மேலும் அறிய "
-      url: /mrs-balamurugan-shanthi
+      url: /teacherspeaker
       alt: Image alt text
       image: /images/Balloon 2 New.png
   - infopic:
