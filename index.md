@@ -64,4 +64,5 @@ sections:
       subtitle: Feedback
       image: /images/Picture13.png
       url: https://go.gov.sg/preschsymfdbck
+      button: உங்கள் கருத்துகளைப் பதிவிடவும்
 ---
