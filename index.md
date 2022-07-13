@@ -41,7 +41,7 @@ sections:
       title: பயிலரங்கங்கள்
       subtitle: Workshops
       button: மேலும் அறிய
-      url: /ms-jeeva-raghunath
+      url: /workshops
       image: /images/Baloon 1 New.png
       alt: Image alt text
   - infopic:
