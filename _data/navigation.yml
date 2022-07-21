@@ -1,15 +1,38 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/TLLPC LOGO.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Resources
-    resource_room: true
+  - title: கண்ணோட்டம்
+    url: /overview
+  - title: தொடக்க விழா
+    url: /openingceremony
+    sublinks:
+      - title: முதன்மையுரை
+        url: /keynoteaddress
+  - title: பயிலரங்கங்கள்
+    url: /workshops
+    sublinks:
+      - title: பயிலரங்கம் 1
+        url: /workshops/Ms-Jeeva-Raghunath
+      - title: பயிலரங்கம் 2
+        url: /workshops/mr-PULAVAR-VETRICCHEZHIYAN
+  - title: ஆசிரியர்களின் பகிர்வுகள்
+    url: /teacherspeaker
+    sublinks:
+      - title: பகிர்வு 1
+        url: /Mrs-Balamurugan-Shanthi
+      - title: பகிர்வு 2
+        url: /Mrs-Dharmaraj-Pushpalatha
+      - title: பகிர்வு 3
+        url: /Mrs-Sharmila-Devi
+      - title: பகிர்வு 4
+        url: /Mrs-Adaikkappan-Valliammai
+  - title: பேச்சாளர்களின் பகிர்வுகள்
+    url: /overseasspeaker
+    sublinks:
+      - title: பகிர்வு 1
+        url: /Mr-Muthu-Nedumaran
+      - title: பகிர்வு 2
+        url: /Mr-Siva-Pillai
+      - title: பகிர்வு 3
+        url: /Dr-Sundaram-Avudaiappan
+      - title: பகிர்வு 4
+        url: /California-Tamil-Academy
