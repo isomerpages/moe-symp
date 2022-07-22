@@ -15,7 +15,7 @@ sections:
           url: /overview/
         - title: பயிலரங்கங்கள்
           description: Workshops
-          url: /ms-jeeva-raghunath
+          url: /workshops
         - title: ஆசிரியர்களின் பகிர்வுகள்
           description: Local Speakers’ sharing
           url: /mrs-balamurugan-shanthi
@@ -66,4 +66,3 @@ sections:
       url: https://go.gov.sg/preschsymfdbck
       button: உங்கள் கருத்துகளைப் பதிவிடவும்
 ---
-
