@@ -1,6 +1,6 @@
 ---
 title: Sample 1
-permalink: /exampletitle
+permalink: /exampletitle/
 description: ""
 ---
 

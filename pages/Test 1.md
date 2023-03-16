@@ -1,6 +1,6 @@
 ---
 title: Test 1
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
 <html>

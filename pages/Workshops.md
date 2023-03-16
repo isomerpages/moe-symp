@@ -1,6 +1,6 @@
 ---
 title: Workshops
-permalink: /workshops
+permalink: /workshops/
 description: ""
 ---
 
