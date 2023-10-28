@@ -1,0 +1,38 @@
+logo: /images/TLLPC LOGO.png
+links:
+  - title: கண்ணோட்டம்
+    url: /overview
+  - title: தொடக்க விழா
+    url: /openingceremony
+    sublinks:
+      - title: முதன்மையுரை
+        url: /keynoteaddress
+  - title: பயிலரங்கங்கள்
+    url: /workshops
+    sublinks:
+      - title: பயிலரங்கம் 1
+        url: /workshops/ms-jeeva-raghunath
+      - title: பயிலரங்கம் 2
+        url: /workshops/mr-PULAVAR-VETRICCHEZHIYAN
+  - title: ஆசிரியர்களின் பகிர்வுகள்
+    url: /teacherspeaker
+    sublinks:
+      - title: பகிர்வு 1
+        url: /mrs-balamurugan-shanthi
+      - title: பகிர்வு 2
+        url: /mrs-dharmaraj-pushpalatha
+      - title: பகிர்வு 3
+        url: /mrs-sharmila-devi
+      - title: பகிர்வு 4
+        url: /mrs-adaikkappan-valliammai
+  - title: பேச்சாளர்களின் பகிர்வுகள்
+    url: /overseasspeaker
+    sublinks:
+      - title: பகிர்வு 1
+        url: /mr-muthu-nedumaran
+      - title: பகிர்வு 2
+        url: /mr-siva-pillai
+      - title: பகிர்வு 3
+        url: /dr-sundaram-avudaiappan
+      - title: பகிர்வு 4
+        url: /california-tamil-academy
