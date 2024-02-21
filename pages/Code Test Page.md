@@ -67,7 +67,7 @@ description: ""
       <input id="tab-1" type="checkbox">
       <label for="tab-1">கதையோடு விளையாடு, தமிழோடு உறவாடு!</label>
       <div class="content">
-       <img src="/images/jeeva2.png"  >
+       <img src="/images/Jeeva2.png"  >
 				<p style ="text-align: center" >திருவாட்டி ஜீவா ரகுநாத், AKT Creations நிறுவனம்</p>
 				<div style ="text-align: center"> 
 				<a href="/workshops/Ms-Jeeva-Raghunath">காண்க: இணையப் பயிலரங்கம்</a>
